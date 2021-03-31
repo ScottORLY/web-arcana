@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Grandstander';
+  src: url('./fonts/DellaRespira-Regular.ttf');
+}
+
+html { 
+  font-family: 'Grandstander', cursive; 
+}
+
+body { 
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  @apply flex flex-col bg-gray-900 text-gray-100 p-2 mx-auto text-center max-w-4xl
+}
+
+#main {
+  @apply text-center
+}
+
+#description {
+  @apply mt-12
+}
+
+#images {
+  @apply mt-12 flex flex-col flex-initial 
+}
+
+.image {
+  @apply mx-auto object-contain max-w-full my-8
+}
+
+#app {
+  @apply p-4 mt-12
+}
+
+#title {
+  @apply text-5xl
+}
+
+#privacy {
+  @apply mx-auto my-24
+}
+
+#qr {
+  @apply max-w-sm mx-auto
+}
+
+#badges {
+  @apply flex flex-col
+}
+
+#glyph {
+  @apply max-w-xs mx-auto
+} 
