@@ -1,7 +1,7 @@
 {
-  "name": "tarot arcana",
+  "name": "TAROT ARCANA",
   "version": "0.0.1",
-  "description": "the premiere divinitory simulator",
+  "description": "The premiere divinitory simulator.",
   "main": "index.js",
   "devDependencies": {
     "autoprefixer": "^10.2.5",

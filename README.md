@@ -1,5 +1,5 @@
-# Monte Carlo XO
+# TAROT ARCANA
 
-This is the website for Monte Carlo XO.
+This is the website for TAROT ARCANA.
 
-https://montecarloxo.com
+https://tarotarcana.app

@@ -4,9 +4,9 @@ document.body.appendChild(
     <div id={styles.app} >
         <div id={styles.main}>
             <h1 id={styles.title}>TAROT ARCANA</h1>
-            <p id={styles.description}>
+            <h1 id={styles.description}>
                 The premiere divination simulator for iOS.
-            </p>
+            </h1>
         </div>
         <div id={styles.images}>
             <h1>Augmented reality divination available now!</h1>
