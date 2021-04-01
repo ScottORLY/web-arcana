@@ -10,11 +10,11 @@ document.body.appendChild(
         </div>
         <div id={styles.images}>
             <h1>Augmented reality divination available now!</h1>
-            <img className={styles.image} src='/img/product.webp' />
+            <img className={styles.image} src='/product.webp' />
         </div>
         <div id={styles.badges}>
             <a href='https://apple.co/3aLanUp'>
-                <img className={styles.image} src='/img/appstore_badge.svg' />
+                <img className={styles.image} src='/appstore_badge.svg' />
             </a>
         </div>
         <div id={styles.privacy} >
