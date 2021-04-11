@@ -5,15 +5,15 @@ document.body.appendChild(
         <div id={styles.main}>
             <h1 id={styles.title}>TAROT ARCANA</h1>
             <h1 id={styles.description}>
-                The premiere divination simulator for iOS.
+                iOS Divination simulator
             </h1>
         </div>
         <div id={styles.images}>
-            <h1>Augmented reality divination available now!</h1>
+            <h1>Augmented reality tarot card divination available now!</h1>
             <img className={styles.image} src='/product.webp' />
         </div>
         <div id={styles.badges}>
-            <a href='https://apple.co/3aLanUp'>
+            <a href='https://apps.apple.com/us/app/tarot-arcana/id1539747669'>
                 <img className={styles.image} src='/appstore_badge.svg' />
             </a>
         </div>
